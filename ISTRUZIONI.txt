@@ -1,0 +1,10 @@
+STUDY DESK MOBILE — ESAME MI.IS.MAN + DASHBOARD
+
+Contenuto: index.html, manifest PWA, service worker e icone.
+
+USO SU PC: aprire index.html con un browser moderno.
+USO SU iPhone/Android: per installare come PWA, caricare TUTTI i file e la cartella icons nella root della repository GitHub Pages (branch main, /(root)). Attendere la pubblicazione e aprire l’URL HTTPS con Safari/Chrome. Su iPhone: Condividi > Aggiungi alla schermata Home.
+
+La dashboard salva risultati in localStorage sul dispositivo/browser. I dati non si sincronizzano automaticamente. Usare “Esporta risultati” per backup.
+
+Le domande sono esercitazioni originali e non ufficiali RFI/SAMAC. La risposta aperta è autovalutata tramite criteri; nessuna IA è inclusa. Non usare le domande come istruzioni operative su impianti reali.
